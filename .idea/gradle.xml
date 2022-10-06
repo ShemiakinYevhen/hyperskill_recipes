@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Recipes/task" />
+            <option value="$PROJECT_DIR$/Recipes/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Recipes/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Recipes/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Recipes/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Recipes/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Recipes/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Shape hierarchy" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Users and WebSites" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Builder (1)" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Describe the builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Robot Builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Subway Sandwich" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comparing dates and time/How many date-time pairs match the range" />
+            <option value="$PROJECT_DIR$/Topics/Comparing dates and time/Select correct statements" />
+            <option value="$PROJECT_DIR$/Topics/Comparing dates and time/The New Year is coming (or not)" />
+            <option value="$PROJECT_DIR$/Topics/Comparing dates and time/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Assertion" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Log events" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Theory" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/Remove long names" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/The same pairs" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/Declared fields" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/Field count" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/Collection class basics" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/Multiple swaps" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/Non-existing methods" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/Sorting sequences" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/Theory" />
+            <option value="$PROJECT_DIR$/Topics/hashCode() and equals() in Collections/Duplicate elements in HashSet" />
+            <option value="$PROJECT_DIR$/Topics/hashCode() and equals() in Collections/Theory" />
+            <option value="$PROJECT_DIR$/Topics/hashCode() and equals() in Collections/Unique pairs in HashMap" />
+            <option value="$PROJECT_DIR$/Topics/hashCode() and equals()/Comparing of boxes" />
+            <option value="$PROJECT_DIR$/Topics/hashCode() and equals()/Complex numbers" />
+            <option value="$PROJECT_DIR$/Topics/hashCode() and equals()/Relationship between hashcode and equality" />
+            <option value="$PROJECT_DIR$/Topics/hashCode() and equals()/The right output" />
+            <option value="$PROJECT_DIR$/Topics/hashCode() and equals()/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

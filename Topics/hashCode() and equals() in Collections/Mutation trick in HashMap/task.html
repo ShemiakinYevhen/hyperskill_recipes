@@ -1,0 +1,11 @@
+<h2>Mutation trick in HashMap</h2>
+<html><body><p>What is the output of this application?</p>
+<p>Note that it doesn't matter if <code class="language-java">hashCode()</code> or <code class="language-java">equals()</code> are overridden or not. You will get the same result.</p>
+<pre><code class="language-java">    Person james = new Person("James Gosling");
+
+    Map&lt;Person, Integer&gt; map = new HashMap();
+    map.put(james, 1995);
+
+    james.setName("J. Gosling");
+
+    System.out.println(map.get(new Person("J. Gosling")));</code></pre></body></html>

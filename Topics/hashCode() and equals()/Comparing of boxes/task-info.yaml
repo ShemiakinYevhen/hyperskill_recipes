@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: false true false false
+- text: true false false true
+- text: 'true true false true '
+- text: false true true false
+- text: 'true true true true '
+- text: 'false true false true '
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12341#comment
+status: Solved
+record: -1
+local_check: false

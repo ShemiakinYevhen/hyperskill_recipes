@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.22/9c08ea24c6eb714e2d6170e8122c069a0ba9aacf/lombok-1.18.22.jar" />
+        </processorPath>
+        <module name="java.Recipes.Recipes-task-build-classes-java.test" />
+        <module name="java.Recipes.Recipes-task-build-generated-sources-headers-java.main" />
+        <module name="Recipes.Topics-hashCode___and_equals__-Relationship_between_hashcode_and_equality.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-The_New_Year_is_coming__or_not_.test" />
+        <module name="java.Recipes.Recipes-task-build-generated-sources-annotationProcessor-java.main" />
+        <module name="Recipes.Topics-Builder-Builder.test" />
+        <module name="test-results.Recipes.Recipes-task-build-test-results.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Theory.main" />
+        <module name="Recipes.Topics-Abstract_class-Theory.test" />
+        <module name="Recipes.Topics-Debugging_techniques-Assertion.test" />
+        <module name="Recipes.Topics-hashCode___and_equals__-Comparing_of_boxes.test" />
+        <module name="Recipes.Topics-hashCode___and_equals___in_Collections-Duplicate_elements_in_HashSet.main" />
+        <module name="Recipes.Topics-Builder-Describe_the_builder.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-How_many_date-time_pairs_match_the_range.main" />
+        <module name="Recipes.Topics-Debugging_techniques-Theory.test" />
+        <module name="Recipes.Topics-hashCode___and_equals__-Theory.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Select_correct_statements.test" />
+        <module name="Recipes.Topics-Debugging_techniques-Log_events.main" />
+        <module name="Recipes.Topics-hashCode___and_equals___in_Collections-Theory.test" />
+        <module name="java.Recipes.Recipes-task-build-generated-sources-annotationProcessor-java.test" />
+        <module name="Recipes.Topics-Abstract_class-Theory.main" />
+        <module name="Recipes.Topics-Abstract_class-Shape_hierarchy.main" />
+        <module name="Recipes.Topics-Builder-Describe_the_builder.main" />
+        <module name="Recipes.Topics-hashCode___and_equals___in_Collections-Duplicate_elements_in_HashSet.test" />
+        <module name="Recipes.Topics-hashCode___and_equals__-Comparing_of_boxes.main" />
+        <module name="Recipes.Topics-Builder-Subway_Sandwich.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Select_correct_statements.main" />
+        <module name="Recipes.Topics-Debugging_techniques-Log_events.test" />
+        <module name="Recipes.Topics-Debugging_techniques-Theory.main" />
+        <module name="Recipes.Topics-Debugging_techniques-Assertion.main" />
+        <module name="Recipes.Topics-Builder-Theory.main" />
+        <module name="Recipes.Topics-hashCode___and_equals__-Complex_numbers.test" />
+        <module name="Recipes.Topics-hashCode___and_equals__-Theory.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Theory.test" />
+        <module name="tests.Recipes.Recipes-task-build-reports-tests.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-The_New_Year_is_coming__or_not_.main" />
+        <module name="Recipes.Topics-Builder-Robot_Builder.test" />
+        <module name="tmp.Recipes.Recipes-task-build-tmp.main" />
+        <module name="Recipes.Topics-hashCode___and_equals__-The_right_output.test" />
+        <module name="Recipes.Topics-Builder-Subway_Sandwich.test" />
+        <module name="java.Recipes.Recipes-task-build-generated-sources-headers-java.test" />
+        <module name="Recipes.Topics-Abstract_class-Users_and_WebSites.main" />
+        <module name="Recipes.Topics-hashCode___and_equals__-The_right_output.main" />
+        <module name="Recipes.Recipes-task.test" />
+        <module name="tests.Recipes.Recipes-task-build-reports-tests.main" />
+        <module name="Recipes.Topics-hashCode___and_equals__-Relationship_between_hashcode_and_equality.main" />
+        <module name="Recipes.Topics-Builder-Builder__1_.test" />
+        <module name="Recipes.Topics-Builder-Robot_Builder.main" />
+        <module name="Recipes.Topics-hashCode___and_equals__-Complex_numbers.main" />
+        <module name="Recipes.Topics-Builder-Builder__1_.main" />
+        <module name="Recipes.Topics-Abstract_class-Shape_hierarchy.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-How_many_date-time_pairs_match_the_range.test" />
+        <module name="tmp.Recipes.Recipes-task-build-tmp.test" />
+        <module name="Recipes.Topics-Abstract_class-Users_and_WebSites.test" />
+        <module name="Recipes.Topics-Builder-Builder.main" />
+        <module name="Recipes.Topics-Builder-Theory.test" />
+        <module name="java.Recipes.Recipes-task-build-classes-java.main" />
+        <module name="test-results.Recipes.Recipes-task-build-test-results.test" />
+        <module name="Recipes.Topics-hashCode___and_equals___in_Collections-Theory.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.24/13a394eed5c4f9efb2a6d956e2086f1d81e857d9/lombok-1.18.24.jar" />
+        </processorPath>
+        <module name="Recipes.Recipes-task.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17" />
+  </component>
+</project>

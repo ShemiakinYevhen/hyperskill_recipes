@@ -1,0 +1,28 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.Scanner;
+    import java.util.*;
+
+    public class Main {
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+            Set<Person> set = new HashSet();
+            set.add(new Person(scanner.nextLine()));
+            set.add(new Person(scanner.nextLine()));
+
+            System.out.println(/* Print the set size here */);
+        }
+    }
+
+    class Person {
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/19599#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 30 Sep 2022 22:16:29 UTC
+record: -1

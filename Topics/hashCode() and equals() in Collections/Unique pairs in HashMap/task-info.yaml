@@ -1,0 +1,28 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.Scanner;
+    import java.util.*;
+
+    public class Main {
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+            Map<Person, Integer> map = new HashMap();
+            map.put(new Person(scanner.nextLine()), 1995);
+            map.put(new Person(scanner.nextLine()), 1995);
+
+            System.out.println(/* Print the map size here */);
+        }
+    }
+
+    class Person {
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/19598#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 30 Sep 2022 22:13:13 UTC
+record: -1
